@@ -5,4 +5,5 @@ Git tracks changes of files
 My siupid boss still prefers SVN
 Creating a new branch is quick & simple
 yingyingying
+local change
 
