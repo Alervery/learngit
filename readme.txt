@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 My siupid boss still prefers SVN
 Creating a now branch is quick
+yingyingying
